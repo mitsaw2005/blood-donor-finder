@@ -1,1 +1,11 @@
-mysql-connector-python
+streamlit==1.44.0
+mysql-connector-python==9.2.0
+twilio
+google-generativeai
+pandas
+numpy
+protobuf
+pillow
+requests
+jinja2
+watchdog
